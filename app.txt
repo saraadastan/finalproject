@@ -5,5 +5,5 @@ Collaborators (ordered by time spent on the project):
 This ordering is intended to recognize and motivate contributors based on their effort.
 
 1. Ali - 15 hours
-2. Giovanni - 10 hours
+2. Giovani - 10 hours
 3. Sara - 5 hours
