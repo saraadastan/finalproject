@@ -1,4 +1,4 @@
-name: github/workflows/ci.yml
+name: Simple CI
 
 on: [push, pull_request]
 
