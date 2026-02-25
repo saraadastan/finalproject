@@ -35,3 +35,5 @@ cd finalproject
 - Open an issue
 - Create a branch
 - Submit a pull request
+
+This is a CI check
